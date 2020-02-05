@@ -46,6 +46,7 @@ _*Clicking on the tabs, one is directed to visual representation for one of the 
     * Parallel Coordinates Plot, color coded for unit sales price
     * Parallel Categories Plots, color coded for unit sales price
     * Map Box Scatter Plot based on neighborhoods, sized to represent unit sales price, color-coded on gross rent.
+    * ![Tab_Intro.png](Answers/Images/Tab_Intro.png)
 
 _*Figures produced on San Francisco Housing Market Analysis for years 2010 to 2016 are show below:*_
 
