@@ -22,13 +22,13 @@ _Figures created from hvplot are displayed in the panel_
 _However, the panel does not display corresponding figures from plotly express._
 
 _*The design is as follows*_
-            Supply              |       Annual_Bar       |  Annual_Line          |                Neighborhood          |       Analysis         
-------------------------------- | -----------------------|-----------------------| ------------------------------------ | ---------------------------------
-How Many Housing Units Are There?  | Think Or Swim         | See Trends in San Francisco|             Nailed It!            |  Home. Sweet Home!
-Fluctuations Over Year               |    Is It A Good Deal? |      Enjoy or Lease?      |     Most Luxurious Neighborhoods     |   Where are we heading 
-    Figure 1a                           | Figure 2a             |         Figure 3a          |           Figure 4                  |   Figure 6a
-     Figure 1b                              |  Figure 2b              |      Figure 3b            |          Figure 5                  |  Figure 6b
-                                                |                               |                         |                                 |   Figure 7
+|            Supply              |       Annual_Bar       |  Annual_Line          |                Neighborhood          |       Analysis                   |
+-------------------------------- | -----------------------|-----------------------| ------------------------------------ | ---------------------------------
+|How Many Housing Units Are There?  | Think Or Swim         | See Trends in San Francisco|             Nailed It!           |  Home. Sweet Home!            |
+|Fluctuations Over Year               |    Is It A Good Deal? |      Enjoy or Lease?      |     Most Luxurious Neighborhoods     |   Where are we heading   | 
+|    Figure 1a                           | Figure 2a             |         Figure 3a          |           Figure 4                  |   Figure 6a           |
+|     Figure 1b                              |  Figure 2b              |      Figure 3b            |          Figure 5                  |  Figure 6b        |
+|                                                |                               |                         |                                 |   Figure 7    |
 
 
 _*Clicking on the tabs, one is directed to visual representation for one of the four categories below:*_
