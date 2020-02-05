@@ -2,17 +2,17 @@
 Homework on PyViz due on 2/5/2020
 
 _*Figures produced on San Francisco Housing Market Analysis for years 2010 to 2016 are show below:*_
-![Fig_1a.png](Images/Fig_1a.png)
-![Fig_1b.png](Images/Fig_1b.png)
-![Fig_2a.png](Images/Fig_2a.png)
-![Fig_2b.png](Images/Fig_2b.png)
-![Fig_3a.png](Images/Fig_3a.png)
-![Fig_3b.png](Images/Fig_3b.png)
-![Fig_4.png](Images/Fig_4.png)
-![Fig_5.png](Images/Fig_5.png)
-![Fig_6a.png](Images/Fig_6a.png)
-![Fig_6b.png](Images/Fig_6b.png)
-![Fig_7.png](Images/Fig_7.png)
+![Fig_1a.png](Answers/Images/Fig_1a.png)
+![Fig_1b.png](Answers/Images/Fig_1b.png)
+![Fig_2a.png](Answers/Images/Fig_2a.png)
+![Fig_2b.png](Answers/Images/Fig_2b.png)
+![Fig_3a.png](Answers/Images/Fig_3a.png)
+![Fig_3b.png](Answers/Images/Fig_3b.png)
+![Fig_4.png](Answers/Images/Fig_4.png)
+![Fig_5.png](Answers/Images/Fig_5.png)
+![Fig_6a.png](Answers/Images/Fig_6a.png)
+![Fig_6b.png](Answers/Images/Fig_6b.png)
+![Fig_7.png](Answers/Images/Fig_7.png)
 
 
 # Panel Design
@@ -27,12 +27,12 @@ _*The design is as follows:*_
 ---------------------------------------- | --------------------------------------------------------------------------| ------------------------------------------------------ | ---------------------------------
 ### How Many Housing Units Are There?       | Think Or Swim in San Francisco | See Trends in San Francisco Housing   | Nailed It! Zooming in San Francisco Neighborhoods            |  
 _#### Fluctuations Over Year in San Francisco |    Is It A Good Deal?         |         Enjoy or Lease?             |  Most Luxurious Neighborhoods by Average Sales Price per Square Foot ###_
-![Fig_1a.png](Images/Fig_1a.png)                 | ![Fig_2a.png](Images/Fig_2a.png) | ![Fig_2b.png](Images/Fig_2b.png)  |           ![Fig_4.png]
-(Images/Fig_4.png)            |    ![Fig_6a.png](Images/Fig_6a.png)   
+![Fig_1a.png](Answers/Images/Fig_1a.png)                 | ![Fig_2a.png](Answers/Images/Fig_2a.png) | ![Fig_2b.png](Answers/Images/Fig_2b.png)  |           ![Fig_4.png]
+(Images/Fig_4.png)            |    ![Fig_6a.png](Answers/Images/Fig_6a.png)   
 
 
-![Fig_1b.png](Images/Fig_1b.png)                    | ![Fig_3a.png](Images/Fig_3a.png) | ![Fig_3b.png](Images/Fig_3b.png)  |![Fig_5.png](Images/Fig_5.png)                                     |  ![Fig_6b.png](Images/Fig_6b.png)  
-                                       |                                                |                                        |     ![Fig_7.png](Images/Fig_7.png)
+![Fig_1b.png](Answers/Images/Fig_1b.png)                    | ![Fig_3a.png](Answers/Images/Fig_3a.png) | ![Fig_3b.png](Answers/Images/Fig_3b.png)  |![Fig_5.png](Answers/Images/Fig_5.png)                                     |  ![Fig_6b.png](Answers/Images/Fig_6b.png)  
+                                       |                                                |                                        |     ![Fig_7.png](Answers/Images/Fig_7.png)
 
 
 _*Clicking on the tabs, one is directed to visual representation for one of the four categories below:_*
