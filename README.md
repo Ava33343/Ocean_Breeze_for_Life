@@ -25,11 +25,13 @@ _*The design is as follows*_
 
 _*Clicking on the tabs, one is directed to visual representation for one of the four categories below:*_
 * Housing Units Supply of San Francisco from 2010 to 2016
+    * ![Tab_Supply.png](Answers/Images/Tab_Supply.png)
 * Yearly Gross Rent vs Sales Price per Square Foot 
     * Bar Charts and Line Plots
 * Sales Price per Square Foot based on Neighborhoods in San Francisco
     * Interactive unit price for neighborhoods
     * Top 10 most expensive neighborhoods represented using in a bar chart
+    * ![Tab_Neighborhood.png](Answers/Images/Tab_Neighborhood.png)
 * Analysis of the interactions between the supply, gross rent, unit sales price, based on geographical locations
     * Parallel Coordinates Plot, color coded for unit sales price
     * Parallel Categories Plots, color coded for unit sales price
