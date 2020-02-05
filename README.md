@@ -1,2 +1,64 @@
 # PyViz-homework
 Homework on PyViz due on 2/5/2020
+
+_*Figures produced on San Francisco Housing Market Analysis for years 2010 to 2016 are show below:*_
+![Fig_1a.png](Images/Fig_1a.png)
+![Fig_1b.png](Images/Fig_1b.png)
+![Fig_2a.png](Images/Fig_2a.png)
+![Fig_2b.png](Images/Fig_2b.png)
+![Fig_3a.png](Images/Fig_3a.png)
+![Fig_3b.png](Images/Fig_3b.png)
+![Fig_4.png](Images/Fig_4.png)
+![Fig_5.png](Images/Fig_5.png)
+![Fig_6a.png](Images/Fig_6a.png)
+![Fig_6b.png](Images/Fig_6b.png)
+![Fig_7.png](Images/Fig_7.png)
+
+
+# Panel Design
+
+_After running the "panel serve dashboard.ipynb" as a command,_
+_Figures created from hvplot are displayed in the panel_
+_However, the panel does not display corresponding figures from plotly express._
+
+_*The design is as follows:*_
+
+            Supply                      |                                    Annually                                |                Neighborhood                                    |       Analysis         
+---------------------------------------- | --------------------------------------------------------------------------| ------------------------------------------------------ | ---------------------------------
+### How Many Housing Units Are There?       | Think Or Swim in San Francisco | See Trends in San Francisco Housing   | Nailed It! Zooming in San Francisco Neighborhoods            |  
+_#### Fluctuations Over Year in San Francisco |    Is It A Good Deal?         |         Enjoy or Lease?             |  Most Luxurious Neighborhoods by Average Sales Price per Square Foot ###_
+![Fig_1a.png](Images/Fig_1a.png)                 | ![Fig_2a.png](Images/Fig_2a.png) | ![Fig_2b.png](Images/Fig_2b.png)  |           ![Fig_4.png]
+(Images/Fig_4.png)            |    ![Fig_6a.png](Images/Fig_6a.png)   
+
+
+![Fig_1b.png](Images/Fig_1b.png)                    | ![Fig_3a.png](Images/Fig_3a.png) | ![Fig_3b.png](Images/Fig_3b.png)  |![Fig_5.png](Images/Fig_5.png)                                     |  ![Fig_6b.png](Images/Fig_6b.png)  
+                                       |                                                |                                        |     ![Fig_7.png](Images/Fig_7.png)
+
+
+_*Clicking on the tabs, one is directed to visual representation for one of the four categories below:_*
+* Housing Units Supply of San Francisco from 2010 to 2016
+* Yearly Gross Rent vs Sales Price per Square Foot 
+    * Bar Charts and Line Plots
+* Sales Price per Square Foot based on Neighborhoods in San Francisco
+    * Interactive unit price for neighborhoods
+    * Top 10 most expensive neighborhoods represented using in a bar chart
+* Analysis of the interactions between the supply, gross rent, unit sales price, based on geographical locations
+    * Parallel Coordinates Plot, color coded for unit sales price
+    * Parallel Categories Plots, color coded for unit sales price
+    * Map Box Scatter Plot based on neighborhoods, sized to represent unit sales price, color-coded on gross rent.
+
+
+
+# References:
+* CU GitLab Repository
+* https://github.com/willwillis/python-pyviz-homework/blob/master/dashboard.ipynb
+* https://github.com/willwillis/python-pyviz-homework/blob/master/rental_analysis.ipynb
+* https://plot.ly/python/line-charts/
+* https://panel.holoviz.org/gallery/index.html
+* https://plot.ly/python/plotly-express/
+* https://www.youtube.com/watch?v=DAQNHzOcO5A
+* https://stackoverflow.com/questions/59118664/lineplot-with-markers-in-holoviews-or-hvplot
+* http://holoviews.org/user_guide/Plotting_with_Bokeh.html
+* http://holoviews.org/user_guide/Customizing_Plots.html
+* http://holoviews.org/user_guide/Styling_Plots.html
+* http://holoviews.org/user_guide/Plotting_with_Bokeh.html
