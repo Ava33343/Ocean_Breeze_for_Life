@@ -25,10 +25,9 @@ _*The design is as follows*_
             Supply              |       Annual_Bar       |  Annual_Line          |                Neighborhood          |       Analysis                   
 -------------------------------- | -----------------------|-----------------------| ------------------------------------ | ---------------------------------
 How Many Housing Units Are There?  | Think Or Swim         | See Trends in San Francisco|             Nailed It!           |  Home. Sweet Home!            
-Fluctuations Over Year               |    Is It A Good Deal? |      Enjoy or Lease?      |     Most Luxurious Neighborhoods     |   Where are we heading   
+Fluctuations Over Year             |    Is It A Good Deal? |      Enjoy or Lease?      |     Most Luxurious Neighborhoods     |   Where are we heading   
    Figure 1a                           | Figure 2a             |         Figure 3a          |           Figure 4                  |   Figure 6a and 6b       
      Figure 1b                              |  Figure 2b              |      Figure 3b            |          Figure 5                  |  Figure  7       
-                                                |                               |                         |                                 |   Figure 7    
 
 
 _*Clicking on the tabs, one is directed to visual representation for one of the four categories below:*_
