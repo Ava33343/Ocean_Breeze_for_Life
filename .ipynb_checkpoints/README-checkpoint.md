@@ -23,19 +23,17 @@ _However, the panel does not display corresponding figures from plotly express._
 
 _*The design is as follows:*_
 
-            Supply                      |                                    Annually                                |                Neighborhood                                    |       Analysis         
----------------------------------------- | --------------------------------------------------------------------------| ------------------------------------------------------ | ---------------------------------
-### How Many Housing Units Are There?       | Think Or Swim in San Francisco | See Trends in San Francisco Housing   | Nailed It! Zooming in San Francisco Neighborhoods            |  
-_#### Fluctuations Over Year in San Francisco |    Is It A Good Deal?         |         Enjoy or Lease?             |  Most Luxurious Neighborhoods by Average Sales Price per Square Foot ###_
-![Fig_1a.png](Answers/Images/Fig_1a.png)                 | ![Fig_2a.png](Answers/Images/Fig_2a.png) | ![Fig_2b.png](Answers/Images/Fig_2b.png)  |           ![Fig_4.png]
-(Images/Fig_4.png)            |    ![Fig_6a.png](Answers/Images/Fig_6a.png)   
+            Supply                      |                 Annually_Bar       |  Annually_Line                           |                Neighborhood                                    |       Analysis         
+---------------------------------------- | ----------------------------------|-------------------------------------------| ------------------------------------------------------ | ---------------------------------
+### How Many Housing Units Are There?       | Think Or Swim in San Francisco | See Trends in San Francisco Housing   | Nailed It! Zooming in San Francisco Neighborhoods            |  Home. Sweet Home!
+_#### Fluctuations Over Year in San Francisco |    Is It A Good Deal?         |         Enjoy or Lease?             |  Most Luxurious Neighborhoods by Average Sales Price per Square Foot    |   Where are we heading ###_
+![Fig_1a.png](Answers/Images/Fig_1a.png)                 | ![Fig_2a.png](Answers/Images/Fig_2a.png) | ![Fig_2b.png](Answers/Images/Fig_2b.png)  |                ![Fig_4.png](Images/Fig_4.png)          |    ![Fig_6a.png](Answers/Images/Fig_6a.png)   
+
+![Fig_1b.png](Answers/Images/Fig_1b.png)        | ![Fig_3a.png](Answers/Images/Fig_3a.png) | ![Fig_3b.png](Answers/Images/Fig_3b.png)  |![Fig_5.png](Answers/Images/Fig_5.png)                            |  ![Fig_6b.png](Answers/Images/Fig_6b.png)  
+                                                         |                                     |                                         |                                                                                 | ![Fig_7.png](Answers/Images/Fig_7.png)
 
 
-![Fig_1b.png](Answers/Images/Fig_1b.png)                    | ![Fig_3a.png](Answers/Images/Fig_3a.png) | ![Fig_3b.png](Answers/Images/Fig_3b.png)  |![Fig_5.png](Answers/Images/Fig_5.png)                                     |  ![Fig_6b.png](Answers/Images/Fig_6b.png)  
-                                       |                                                |                                        |     ![Fig_7.png](Answers/Images/Fig_7.png)
-
-
-_*Clicking on the tabs, one is directed to visual representation for one of the four categories below:_*
+_*Clicking on the tabs, one is directed to visual representation for one of the four categories below:*_
 * Housing Units Supply of San Francisco from 2010 to 2016
 * Yearly Gross Rent vs Sales Price per Square Foot 
     * Bar Charts and Line Plots
