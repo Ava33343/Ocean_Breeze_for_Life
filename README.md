@@ -1,7 +1,6 @@
-# PyViz-homework
-Homework on PyViz due on 2/5/2020
+# Ocean Breeze for Life
 
-# Panel Design
+### _Interactive Dashboard Leveraging Pyviz and Panel Design_
 
 ## Look for sunshine and ocean breeze? Warm San Francisco neighborhoods welcome you to join! 
 *###Shall we buy low and sell high? Are you ready to invest for your own space or earn more money by leasing?*
